@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'sherll'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8AF2655C87224B4DA59696136ACA90EE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E26EFEECC08B40B0ADB34DF2072B71C3 }}
           package: .
